@@ -1,0 +1,7 @@
+# Arquivos de segredo do Google OAuth - NUNCA ENVIAR!
+credentials.json
+token.json
+
+# Binários e arquivos de sistema do Go e VS Code
+*.exe
+.vscode/
